@@ -1,0 +1,176 @@
+Day-01[07-02-2022]:
+===================
+	Good Afternoon to All....
+
+https://github.com/AP-Skill-Development-Corporation/
+
+
+	Why we are prefering python language?
+		- Number of lines of code will be decreased while compared to other languages
+		- Easy to write code with simple syntax
+		- Inbuilt packages and modules are present we can access easily.
+
+	C Language:
+	===========
+		To execute a c Program what are the softwares you had used?
+			- Turboc++,Devc++,Visualstudio
+			=> Editor + compiler => IDE's
+		Without using this software have you execute a c program?
+			=> Editor => Notepad
+			=> compiler => gcc compiler
+			=> cmd
+			=> gcc fielname.c
+			=> a.exe 
+
+	What is the difference between a compiler and Interpreter?
+		=> compiler
+			- line by line execution
+			- It displays all errors at a time
+		=> Interpreter
+			- line by line execution
+			- It will stops the execution when an error is occured		
+	Python:
+	=======
+		-> Interpreted Language
+		-> Oops concepts
+
+	Python Installation:
+	====================
+		Python Downloads:
+		-----------------
+		=> https://python.org => official site
+		=> place cursor on downloads
+		=> you need to click on windows
+		=> two columns
+			- stable release
+			- prerelease
+		=> cntr+f => python 3.7.5
+		=> Try to select the software in left column ie., stable release
+		=> we need to download the software based on bit.
+		=> windows x86-x64 executeable installer
+		=> Download
+
+		Python Installation:
+		--------------------
+		=> We need to Double tap on the software after downloading it.
+		=> "yes"
+		=> Two option and two checkboxes
+		=> Two options
+			- Install now [Defaut location]
+				=> c:\users\xxxx\AppData\local\Programs\Python\Python3x\
+			- custom installation
+				=> User based folder location
+		=> Two checkboxes
+			- User permissions => you need to select this option
+			- Add python3.7 to path => you need to select this option(mandatory)
+		=> "yes"
+		=> Next to complete installations
+		=> Successfully installed python
+		=> close [finish]
+
+	Python Version Check:
+	=====================
+	=> run command (win+r)
+	=> cmd
+	=> python -V
+	=> version display
+
+	Python Installation Error:
+	==========================
+		=> python is an internal or external command error
+			=> python is installed in system or not?
+			=> control panel => python is viewed
+			=> we need to navigate for python folder location
+			=> copy the path of python
+			=> search => env
+			=> we need to click on environment variables
+			=> user variables
+				=> new
+				=> C:\Users\xxxxx\AppData\Local\Programs\Python\Python37 => python
+				=> C:\Users\xxxxx\AppData\Local\Programs\Python\Python37\Scripts => pip
+				=> ok or apply
+				=> close the panel
+			=> close all command prompts if it is open	
+			=> run
+			=> cmd
+			=> python -V
+
+	Python Errors for different versions:
+	=====================================
+		=> Python 3.7.5
+		=> Python 3.9
+		=> We shouldnt use two or more different versions in single system
+
+	Pip [Third Party Packages install]:
+	==================================
+	Pip Version Check:
+	------------------
+		=> cmd
+		=> pip -V
+		=> python -m pip install --upgrade pip
+
+	Different ways to execute Python Program:
+	=========================================
+	- Basic Procedure
+	- Advanced Editors
+	- IDLE
+	- Jupyter notebook
+
+	Basic Procedure:
+	================
+	=> Editors -> Notepad
+	=> Interpreter
+	=> Notepad => code => .py extension
+	=> open folder path in cmd prompt
+	=> Execution:
+		=> python filename.py
+		 		or
+		=> filename.py
+
+	Advanced Editors:
+	=================
+	=> Editors like geany,sublime,atom,editplus,notepad++ etc.,
+	=> geany => new file
+	=> fileanme.extension => code
+	=> compile => execute [Shortcuts]
+
+	IDLE [Integrated Development Learning Environment]:
+	===================================================
+	=> InBuilt in Python software
+	=> we can execute program by clicking on the menu when file is created
+	=> Output will be displayed in the shell itself not in command prompt
+
+	Jupyter Notebook:
+	=================
+	-> Literate programming => Combination of Coding and markdown[Documentation]
+	-> Github and in jupyter notebook
+
+	Jupyter Notebook Installation:
+	==============================
+		=> pip -V
+		=> pip install jupyter notebook
+		=> warning
+		=> 'python -m pip install --upgrade pip'
+		=> pip install jupyter notebook
+		=> cmd => close
+
+	Jupyter Notebook Running:
+	=========================
+		=> cmd
+		=> jupyter notebook
+		=> browser tree structure [Documents]
+
+	Jupyter notebook file => ipynb
+	i => Interactive
+	py => Python
+	nb => Notebook
+		=> Jupyter notebook,colab
+
+
+	Jupyter notebook shortcuts:
+	===========================
+	-> shift + enter => To execute cell and select below
+	-> esc + m => Code to Markdown
+	-> esc + y => Markdown to Code
+	-> esc + d d => delete a cell
+	-> esc + b => insert cell below
