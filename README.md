@@ -8,7 +8,7 @@ For Second Years
   - Downloading,installation and running of Jupyter Notebook
   - Brief Explanation of Jupyter Notebook
   - Variables,data types and type method with sample examples in each
-  - Recording Video [Click Here](https://drive.google.com/file/d/1rD8AdvzLJgaPA6IKvcd2ccKWrz63uavn/view?ts=62012a57)
+  - Recording Video [Click Here](https://youtu.be/ZKV2OnwGmCA)
 
 ## Day-02(08-02-2022):
   - Input,Output Formatting,Operators with sample examples on each
