@@ -15,3 +15,10 @@ For Second Years
   - Conditional Statements with sample examples on each
   - Conrtol statements and example on for Loop
   - Recording Video [Click Here]()
+
+## Day-03(09-02-2022):
+  - While With sample example
+  - Jumping Statements,Inner Loop Concept with sample examples on each
+  - Functions and its types with examples
+  - Function arguments types(default,required) with sample example
+  - Recording Video [Click Here]()
