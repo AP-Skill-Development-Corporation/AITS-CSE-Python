@@ -14,7 +14,7 @@ For Second Years
   - Input,Output Formatting,Operators with sample examples on each
   - Conditional Statements with sample examples on each
   - Control statements and example on for Loop
-  - Recording Video [Click Here]()
+  - Recording Video [Click Here](https://youtu.be/LZnGtoY6SCM)
 
 ## Day-03(09-02-2022):
   - While With sample example
