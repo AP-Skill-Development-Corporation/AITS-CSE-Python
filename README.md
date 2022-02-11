@@ -28,3 +28,4 @@ For Second Years
   - Strings and its methods
   - Data Structures overview
   - Brief Explanation of List and its methods
+  - Recording Video [Click Here]()
