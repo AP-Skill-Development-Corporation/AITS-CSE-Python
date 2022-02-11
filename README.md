@@ -29,3 +29,7 @@ For Second Years
   - Data Structures overview
   - Brief Explanation of List and its methods
   - Recording Video [Click Here]()
+
+## Day-05(11-02-2022):
+  - Dictionary,set and tuple methods with sample exampels on each
+  - Recording Video [Click Here]()
