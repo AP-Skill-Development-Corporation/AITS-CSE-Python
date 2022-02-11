@@ -22,3 +22,9 @@ For Second Years
   - Functions and its types with examples
   - Function arguments types(default,required) with sample example
   - Recording Video [Click Here]()
+
+## Day-04(10-02-2022):
+  - Function arguments types(keyword and variable length) with sample examples
+  - Strings and its methods
+  - Data Structures overview
+  - Brief Explanation of List and its methods
