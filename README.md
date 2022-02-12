@@ -32,7 +32,7 @@ For Second Years
 
 ## Day-05(11-02-2022):
   - Dictionary,set and tuple methods with sample exampels on each
-  - Recording Video [Click Here]()
+  - Recording Video [Click Here](https://youtu.be/PgN0UZZvi30)
 
 ## Day-06(12-02-2022):
   - Practiced some problems in hackerrank
