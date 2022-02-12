@@ -33,3 +33,10 @@ For Second Years
 ## Day-05(11-02-2022):
   - Dictionary,set and tuple methods with sample exampels on each
   - Recording Video [Click Here]()
+
+## Day-06(12-02-2022):
+  - Practiced some problems in hackerrank
+  - Comprehensions,Iterator,generators with sample examples
+  - Functional Programming like map,filter,reduce and lambda with sample examples on each
+  - Files with different modes explanation with sample examples on each
+  - Recording Video [Click Here]()
