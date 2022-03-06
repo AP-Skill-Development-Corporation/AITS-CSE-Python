@@ -28,7 +28,7 @@ For Second Years
   - Strings and its methods
   - Data Structures overview
   - Brief Explanation of List and its methods
-  - Recording Video [Click Here]()
+  - Recording Video [Click Here](https://youtu.be/TQMJdj92TpU)
 
 ## Day-05(11-02-2022):
   - Dictionary,set and tuple methods with sample exampels on each
@@ -39,4 +39,4 @@ For Second Years
   - Comprehensions,Iterator,generators with sample examples
   - Functional Programming like map,filter,reduce and lambda with sample examples on each
   - Files with different modes explanation with sample examples on each
-  - Recording Video [Click Here]()
+  - Recording Video [Click Here](https://youtu.be/nGzS_VtkPsQ)
