@@ -21,7 +21,7 @@ For Second Years
   - Jumping Statements,Inner Loop Concept with sample examples on each
   - Functions and its types with examples
   - Function arguments types(default,required) with sample example
-  - Recording Video [Click Here]()
+  - Recording Video [Click Here](https://youtu.be/TQMJdj92TpU)
 
 ## Day-04(10-02-2022):
   - Function arguments types(keyword and variable length) with sample examples
