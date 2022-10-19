@@ -28,7 +28,7 @@ For Second Years
   - Strings and its methods
   - Data Structures overview
   - Brief Explanation of List and its methods
-  - Recording Video [Click Here](https://youtu.be/TQMJdj92TpU)
+  - Recording Video [Click Here](https://youtu.be/YrY795wQAm0)
 
 ## Day-05(11-02-2022):
   - Dictionary,set and tuple methods with sample exampels on each
